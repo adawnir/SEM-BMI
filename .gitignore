@@ -1,3 +1,7 @@
+# Job output/error files
+*.o*
+*.e*
+
 # History files
 .Rhistory
 .Rapp.history
